@@ -117,7 +117,7 @@ def main():
     
     while True:
         print("\n=========================================")
-        print("   HOSPITAL EXCEL SYSTEM (Python)")
+        print("   HOSPITAL MANAGEMENT SYSTEM (Python)")
         print("=========================================")
         print("1. Register Consultancy (OPD)")
         print("2. Admit Patient (IPD)")
