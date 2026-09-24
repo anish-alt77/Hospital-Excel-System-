@@ -1,4 +1,4 @@
-# Hospital Excel System (Python)
+# Hospital Management System (Python)
 
 This is a console-based Hospital Management mini-project in Python that stores patient records in an Excel-compatible CSV file. It allows users to register OPD consultations, admit IPD patients, and view all stored records from the CSV sheet.[attached_file:2]
 
